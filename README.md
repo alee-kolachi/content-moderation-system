@@ -10,6 +10,8 @@ A multi-modal AI system for content moderation that detects toxic text and NSFW 
 - **Image Moderation:** NSFW detection  
 - **Severity Scoring:** Unified score 0–100  
 - **Multi-Language Support:** English + others  
+- **Batch Processing API**  
+- **Admin Dashboard:** Streamlit UI to review flagged content  
 
 ---
 
@@ -17,5 +19,5 @@ A multi-modal AI system for content moderation that detects toxic text and NSFW 
 - **Text:** Transformers (BERT, DistilBERT, RuBERT)  
 - **Images:** Vision Transformer (ViT)  
 - **Backend:** FastAPI  
+- **Frontend:** Streamlit  
 - **Other:** PyTorch, Pillow, Torchvision  
-
